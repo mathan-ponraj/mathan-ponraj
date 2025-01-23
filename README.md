@@ -2,7 +2,7 @@
 
 I'm a data enthusiast with a passion for turning raw data into actionable insights. I specialize in data science, leveraging Python and its powerful libraries to build predictive models, uncover trends, and solve real-world problems. 💻✨
 When I'm not coding, you can find me exploring machine learning, diving into datasets, or learning something new in the world of AI. Let's connect and create something impactful together!.
-<img align="right" width="370" height="290" src="https://www.pinterest.com/pin/data-analytics-animation--311381761730704419/.gif">
+<img align="right" width="370" height="290" src="https://images.app.goo.gl/69yK7avDKXkdurEr6.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning Deep Learning & Power BI
 - 👯 I’m looking to collaborate on ML/DatScience
@@ -16,10 +16,11 @@ When I'm not coding, you can find me exploring machine learning, diving into dat
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="50" height="50" src="https://img.icons8.com/arcade/48/sql.png" alt="sql"/>
 <img width="50" height="50" src="https://img.icons8.com/color/50/pandas.png" alt="pandas"/><img width="50" height="50" src="https://img.icons8.com/color/50/numpy.png" alt="numpy"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/><img width="50" height="50" src="https://img.icons8.com/color/50/google-sheets.png" alt="google-sheets"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/><img width="50" height="50" src="https://img.icons8.com/color/50/google-sheets.png" alt="google-sheets"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img width="50" height="50" src="https://img.icons8.com/color/50/power-bi.png" alt="power-bi"/>
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img width="50" height="50" src="https://img.icons8.com/color/50/google-colab.png" alt="google-colab"/>
 
 
 ### 💻 Workspace Spec
