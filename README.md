@@ -4,12 +4,12 @@ I'm a data enthusiast with a passion for turning raw data into actionable insigh
 When I'm not coding, you can find me exploring machine learning, diving into datasets, or learning something new in the world of AI. Let's connect and create something impactful together!.
 <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" alt="Data Analytics Animation" width="380" height="290">
 
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+- 🔭 Here's my [portfolio]                                         
 - 🌱 I’m currently learning Deep Learning & Power BI
 - 👯 I’m looking to collaborate on ML/DatScience
 - 💬 DM for Digital Marketing
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mathan03/)
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/mathan) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mathan03/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: "I know every dataset has a story, and I’m the storyteller."
 
@@ -24,8 +24,6 @@ When I'm not coding, you can find me exploring machine learning, diving into dat
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img width="50" height="50" src="https://img.icons8.com/color/50/google-colab.png" alt="google-colab"/>
 
 
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
 
 ![Mathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathan-r&theme=dark&show_icons=true&&hide=issues,contribs)
