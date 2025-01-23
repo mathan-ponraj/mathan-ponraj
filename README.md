@@ -2,7 +2,7 @@
 
 I'm a data enthusiast with a passion for turning raw data into actionable insights. I specialize in data science, leveraging Python and its powerful libraries to build predictive models, uncover trends, and solve real-world problems. 💻✨
 When I'm not coding, you can find me exploring machine learning, diving into datasets, or learning something new in the world of AI. Let's connect and create something impactful together!.
-<img align="right" width="470" height="290" src="https://www.pinterest.com/pin/data-analytics-animation--311381761730704419/">
+<img align="right" width="370" height="290" src="https://www.pinterest.com/pin/data-analytics-animation--311381761730704419/.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning Deep Learning & Power BI
 - 👯 I’m looking to collaborate on ML/DatScience
@@ -14,19 +14,20 @@ When I'm not coding, you can find me exploring machine learning, diving into dat
 
 
 ### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img width="50" height="50" src="https://img.icons8.com/arcade/48/sql.png" alt="sql"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="50" height="50" src="https://img.icons8.com/arcade/48/sql.png" alt="sql"/>
 <img width="50" height="50" src="https://img.icons8.com/color/50/pandas.png" alt="pandas"/><img width="50" height="50" src="https://img.icons8.com/color/50/numpy.png" alt="numpy"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/><img width="50" height="50" src="https://img.icons8.com/color/50/google-sheets.png" alt="google-sheets"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/><img width="50" height="50" src="https://img.icons8.com/color/50/google-sheets.png" alt="google-sheets"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> 
 
 
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+![Mathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathan-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/mathan?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+
+[![Mathan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mathan-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/mathan-ponraj/github-readme-activity-graph)
