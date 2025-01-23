@@ -2,7 +2,8 @@
 
 I'm a data enthusiast with a passion for turning raw data into actionable insights. I specialize in data science, leveraging Python and its powerful libraries to build predictive models, uncover trends, and solve real-world problems. 💻✨
 When I'm not coding, you can find me exploring machine learning, diving into datasets, or learning something new in the world of AI. Let's connect and create something impactful together!.
-<img align="right" width="370" height="290" src="https://images.app.goo.gl/69yK7avDKXkdurEr6.gif">
+<img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" alt="Data Analytics Animation" width="380" height="290">
+
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning Deep Learning & Power BI
 - 👯 I’m looking to collaborate on ML/DatScience
