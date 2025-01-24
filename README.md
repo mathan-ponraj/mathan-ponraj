@@ -1,8 +1,11 @@
 ## Hi there 👋 It's me Mathan !!
 
-I'm a data enthusiast with a passion for turning raw data into actionable insights. I specialize in data science, leveraging Python and its powerful libraries to build predictive models, uncover trends, and solve real-world problems. 💻✨
-When I'm not coding, you can find me exploring machine learning, diving into datasets, or learning something new in the world of AI. Let's connect and create something impactful together!.
-<img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" alt="Data Analytics Animation" width="380" height="290">
+I'm a data enthusiast with a passion for turning raw data into actionable insights.</br>
+I specialize in data science, leveraging Python and its powerful libraries to build predictive models, uncover trends, and solve real-world problems. 
+💻✨When I'm not coding, you can find me exploring machine learning, diving into datasets, or learning something new in the world of AI.</br>
+Let's connect and create something impactful together!
+
+<img  align= "right" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" alt="Data Analytics Animation" width="380" height="270">
 
 - 🔭 Here's my [portfolio]                                         
 - 🌱 I’m currently learning Deep Learning & Power BI
@@ -12,6 +15,8 @@ When I'm not coding, you can find me exploring machine learning, diving into dat
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/mathan) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mathan03/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: "I know every dataset has a story, and I’m the storyteller."
+
+
 
 
 ### I code in
