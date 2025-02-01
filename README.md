@@ -33,6 +33,6 @@ Let's connect and create something impactful together!
 
 ![Mathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathan-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/mathan?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/mathan?ext=contest&theme=dark)](https://leetcode.com/mathan-ponraj)
 
 [![Mathan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mathan-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/mathan-ponraj/github-readme-activity-graph)
