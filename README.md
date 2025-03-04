@@ -7,7 +7,7 @@ Let's connect and create something impactful together!
 
 <img  align= "right" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" alt="Data Analytics Animation" width="380" height="270">
 
-- My [portfolio](https://mathan-ponraj.my.canva.site/portfolio  )                             
+- My [portfolio](https://mathan-ponraj.my.canva.site/daggvqynawq  )                             
 - 🌱 I’m currently learning Deep Learning & Power BI
 - 👯 I’m looking to collaborate on ML/DatScience
 - 💬 DM for Digital Marketing
