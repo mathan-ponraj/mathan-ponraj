@@ -7,7 +7,7 @@ Let's connect and create something impactful together!
 
 <img  align= "right" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" alt="Data Analytics Animation" width="380" height="270">
 
-- My [portfolio]([https://mathan-ponraj.my.canva.site/portfolio](https://receptive-crop-247.notion.site/Hi-I-m-Mathan-124ffefd352b8039aa14d116117e341c))                             
+- My [portfolio](https://receptive-crop-247.notion.site/Hi-I-m-Mathan-124ffefd352b8039aa14d116117e341c)                         
 - 🌱 I’m currently learning Deep Learning 
 - 👯 I’m looking to collaborate on ML/DatScience
 - 💬 DM for Digital Marketing
