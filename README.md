@@ -1,9 +1,14 @@
-## Hi there 👋 It's me Mathan !!
+## Hi, I'm Mathan Ponraj 
 
-I'm a data enthusiast with a passion for turning raw data into actionable insights.</br>
-I specialize in data science, leveraging Python and its powerful libraries to build predictive models, uncover trends, and solve real-world problems. 
-💻✨When I'm not coding, you can find me exploring machine learning, diving into datasets, or learning something new in the world of AI.</br>
-Let's connect and create something impactful together!
+I'm a data scientist with hands-on experience from real-world projects and internships.
+
+I work on end-to-end machine learning projects, covering everything from data cleaning and analysis to building and deploying models. My key skills include Python, SQL and PySpark, with a strong grounding in statistics and deep learning.
+
+I've also used tools like Power BI, Excel and core Python libraries to build dashboards and uncover insights that support better decisions.
+
+Right now, I'm upskilling in Large Language Models and Generative AI to stay ahead of the curve.
+
+Driven by curiosity and a clear approach to problem-solving, I enjoy using data to tackle real-world challenges. Always learning, always open to collaboration.
 
 <img  align= "right" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" alt="Data Analytics Animation" width="380" height="270">
 
