@@ -1,43 +1,32 @@
-## Hi, I'm Mathan Ponraj 
+## Hi, I'm Mathan Ponraj 👋
 
-I'm a data scientist with hands-on experience from real-world projects and internships.
+I'm a **fresher in data analytics and data science**, with hands-on experience gained through internships, academic work, and real-world projects.
 
-I work on end-to-end machine learning projects, covering everything from data cleaning and analysis to building and deploying models. My key skills include Python, SQL and PySpark, with a strong grounding in statistics and deep learning.
+I work on learning-focused projects that involve **data cleaning, exploratory data analysis, basic machine learning models, and simple dashboards**. I enjoy understanding datasets, asking the right questions, and using data to find meaningful patterns.
 
-I've also used tools like Power BI, Excel and core Python libraries to build dashboards and uncover insights that support better decisions.
+My primary skills include **Python and SQL**, along with tools like **Power BI and Excel** for reporting and visualization. I’m comfortable working with core Python libraries such as Pandas and NumPy, and I’m gradually strengthening my understanding of statistics and machine learning fundamentals.
 
-Right now, I'm upskilling in Large Language Models and Generative AI to stay ahead of the curve.
+Currently, I’m continuing to improve my skills in:
+- Data analysis and visualization  
+- Writing clean and readable Python code  
+- Applying basic machine learning techniques  
+- Understanding how data supports business decisions  
 
-Driven by curiosity and a clear approach to problem-solving, I enjoy using data to tackle real-world challenges. Always learning, always open to collaboration.
+I’m always open to learning, feedback, and collaboration on beginner-friendly data projects.
 
-<img  align= "right" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" alt="Data Analytics Animation" width="380" height="270">
+---
 
-- My [portfolio](https://receptive-crop-247.notion.site/Hi-I-m-Mathan-124ffefd352b8039aa14d116117e341c)                         
-- 🌱 I’m currently learning Deep Learning 
-- 👯 I’m looking to collaborate on ML/DatScience
-- 💬 DM for Digital Marketing
-- 📫 How to reach me :
-<br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mathan03/)
-- 😄 Pronouns: Techie
-- ⚡ Fun fact: "I know every dataset has a story, and I’m the storyteller."
+🔗 **Portfolio:** https://receptive-crop-247.notion.site/Hi-I-m-Mathan-124ffefd352b8039aa14d116117e341c  
+🔗 **LinkedIn:** https://www.linkedin.com/in/mathan03/
 
+---
 
+### 🛠️ Tools & Technologies I Use
+- Python, SQL  
+- Pandas, NumPy, Scikit-learn (basics)  
+- Power BI, Excel  
+- Git, VS Code, Google Colab  
 
+---
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img width="50" height="50" src="https://img.icons8.com/arcade/48/sql.png" alt="sql"/>
-<img width="50" height="50" src="https://img.icons8.com/color/50/pandas.png" alt="pandas"/><img width="50" height="50" src="https://img.icons8.com/color/50/numpy.png" alt="numpy"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/pytorch.png" alt="pytorch"/><img width="50" height="50" src="https://img.icons8.com/color/50/google-sheets.png" alt="google-sheets"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img width="50" height="50" src="https://img.icons8.com/color/50/power-bi.png" alt="power-bi"/>
-
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img width="50" height="50" src="https://img.icons8.com/color/50/google-colab.png" alt="google-colab"/>
-
-
-
-
-![Mathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathan-r&theme=dark&show_icons=true&&hide=issues,contribs)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/mathan?ext=contest&theme=dark)](https://leetcode.com/mathan-ponraj)
-
-[![Mathan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mathan-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/mathan-ponraj/github-readme-activity-graph)
+⚡ *Fun fact:* Every dataset has a story — I’m learning how to read it.
