@@ -1,18 +1,15 @@
-## Hi, I'm Mathan Ponraj 👋
+ Mathan Ponraj
 
-I'm a **fresher in data analytics and data science**, with hands-on experience gained through internships, academic work, and real-world projects.
+Data analyst with strong passion for data science. I have a strong foundations in data cleaning and reduce manual work through data pipelines, Exploratory Data Analysis to uncover trends and patterns in th data, Statistical analysis to detect and handling Outliers, Analyse data spread and Able to build predictie models using Sckit- learn python module to support business decision making.
 
-I work on learning-focused projects that involve **data cleaning, exploratory data analysis, basic machine learning models, and simple dashboards**. I enjoy understanding datasets, asking the right questions, and using data to find meaningful patterns.
+Tools:
+- Pandas, NumPy, Scikit-learn
+- SQL (Joins, Aggregation functions, Window Functions)
+- Excel (Pivot Tables, Lookup functions)
+- Power BI, DAX, Power Query
+- Data Stroy Telling, Feature Engineering, ETL
 
-My primary skills include **Python and SQL**, along with tools like **Power BI and Excel** for reporting and visualization. I’m comfortable working with core Python libraries such as Pandas and NumPy, and I’m gradually strengthening my understanding of statistics and machine learning fundamentals.
-
-Currently, I’m continuing to improve my skills in:
-- Data analysis and visualization  
-- Writing clean and readable Python code  
-- Applying basic machine learning techniques  
-- Understanding how data supports business decisions  
-
-I’m always open to learning, feedback, and collaboration on beginner-friendly data projects.
+Open to Data Analyst role to give my impact on that role through my technical expertise, and curious to learn new technologies and solve real world porblems.
 
 ---
 
@@ -21,12 +18,5 @@ I’m always open to learning, feedback, and collaboration on beginner-friendly 
 
 ---
 
-### 🛠️ Tools & Technologies I Use
-- Python, SQL  
-- Pandas, NumPy, Scikit-learn (basics)  
-- Power BI, Excel  
-- Git, VS Code, Google Colab  
-
 ---
 
-⚡ *Fun fact:* Every dataset has a story — I’m learning how to read it.
