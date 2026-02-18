@@ -38,22 +38,8 @@ I am capable of building predictive models using Python and Scikit-learn to supp
 
 # Projects
 
-## [1. Used Car Price Prediction & Business Dashboard](https://github.com/mathan-ponraj/Data-Driven-Used-Car-Price-Prediction-with-Business-Insights)
-The project focuses on predicting used car selling prices using historical vehicle data to help dealers avoid overpricing and revenue loss.  
-It includes data cleaning automation, feature engineering, regression modeling, and a Power BI dashboard for business insights.
 
-Key highlights:
-- End-to-end ML workflow (EDA → Cleaning → Modeling → Evaluation)
-- Data pipeline to reduce manual data cleaning effort  
-- Feature engineering to simplify model complexity  
-- Linear Regression model for interpretable price prediction  
-- Business-oriented dashboard for pricing insights  
-
-Keywords: Regression, EDA, Feature Engineering, Power BI, Scikit-learn, Business Analytics  
-
----
-
-## [2. YouTube Trending Data ETL (Python, SQLAlchemy & SQLite)](https://github.com/mathan-ponraj/YouTube-Trending-Data-ETL-with-Python-SQLAlchemy-and-SQLite)
+## [1. YouTube Trending Data ETL (Python, SQLAlchemy & SQLite)](https://github.com/mathan-ponraj/YouTube-Trending-Data-ETL-with-Python-SQLAlchemy-and-SQLite)
 This project implements a complete ETL (Extract, Transform, Load) workflow to collect trending YouTube video data from the API, clean and transform it, and load it into a SQLite database for SQL-based analysis.
 
 The system automates data extraction, preprocessing, and storage to make the data analysis-ready instead of doing manual analysis.
@@ -66,6 +52,20 @@ Key highlights:
 - Automated ETL workflow for reusable data processing  
 
 Keywords: ETL, API, SQLAlchemy, SQLite, Data Engineering, SQL, Pandas  
+
+---
+## [2. Data Driven Used Car Price Prediction & Business Dashboard](https://github.com/mathan-ponraj/Data-Driven-Used-Car-Price-Prediction-with-Business-Insights)
+The project focuses on predicting used car selling prices using historical vehicle data to help dealers avoid overpricing and revenue loss.  
+It includes data cleaning automation, feature engineering, regression modeling, and a Power BI dashboard for business insights.
+
+Key highlights:
+- End-to-end ML workflow (EDA → Cleaning → Modeling → Evaluation)
+- Data pipeline to reduce manual data cleaning effort  
+- Feature engineering to simplify model complexity  
+- Linear Regression model for interpretable price prediction  
+- Business-oriented dashboard for pricing insights  
+
+Keywords: Regression, EDA, Feature Engineering, Power BI, Scikit-learn, Business Analytics  
 
 ---
 
