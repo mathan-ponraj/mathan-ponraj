@@ -1,8 +1,7 @@
-# Data Science Portfolio
 
-Hi, I’m **Mathan Ponraj**, an aspiring Data Analyst / Data Science professional looking for entry-level opportunities.
+I’m **Mathan Ponraj**, an aspiring Data Analyst professional looking for opportunities.
 
-I work on real-world data problems using Python, SQL, and BI tools, focusing on building clean data pipelines, extracting insights, and creating business-driven solutions.
+I have an hands on real-world data problem experience and solved them using Python, SQL, and Business Intelligence tools, focusing on write clear python script to clean, and load data into databases, extracting insights, and creating business-driven solutions. 
 
 ---
 
@@ -10,9 +9,9 @@ I work on real-world data problems using Python, SQL, and BI tools, focusing on 
 
 - **Data Cleaning & Preprocessing** – Handle raw data from APIs, CSV, SQL, and NoSQL sources  
 - **Exploratory Data Analysis (EDA)** – Identify trends, patterns, and insights  
-- **ETL Pipelines** – Build automated workflows for data processing  
+- **Python Scripts** – Build automated workflows for data processing  
 - **Machine Learning** – Build regression and prediction models  
-- **Dashboards & Reporting** – Create insights using Power BI  
+- **Dashboards & Reporting** – Create insights using Power BI, Tableau  
 
 ---
 
@@ -21,7 +20,7 @@ I work on real-world data problems using Python, SQL, and BI tools, focusing on 
 ### 1. YouTube API Data Migration & ETL Pipeline  
 🔗 https://github.com/mathan-ponraj/YouTube-API-Data-Migration-and-ETL-Pipeline  
 
-- Built a Python-based ETL pipeline to extract data from YouTube API  
+- Write a Python Script to automate extract, and clean YouTube API data and load into sql database for faster querying and better analysis
 - Transformed nested JSON data into structured SQL tables  
 - Automated data processing workflow for analysis  
 
@@ -30,8 +29,8 @@ I work on real-world data problems using Python, SQL, and BI tools, focusing on 
 ### 2. AutoValue ML – Used Car Price Prediction  
 🔗 https://github.com/mathan-ponraj/AutoValue-ML  
 
-- Built regression model to predict used car prices  
-- Applied feature engineering and data preprocessing  
+- Built regression model to predict used car prices that increased profits compare to guessing price strategies
+- Applied feature engineering and data preprocessing to transform messy data into clean and actionable insights and improved model interpretability
 - Achieved **R² score of 0.85**  
 
 ---
@@ -50,7 +49,7 @@ I work on real-world data problems using Python, SQL, and BI tools, focusing on 
 - **Programming:** Python, SQL  
 - **Data Analysis:** Pandas, NumPy, EDA  
 - **Machine Learning:** Scikit-learn  
-- **Data Engineering:** ETL Pipelines, Data Processing  
+- **Data Engineering:** Data Processing  
 - **Visualization:** Power BI, Matplotlib  
 - **Tools:** Git, GitHub, SQLAlchemy  
 - **Cloud (Basics):** AWS S3, SageMaker  
@@ -66,4 +65,4 @@ I work on real-world data problems using Python, SQL, and BI tools, focusing on 
 
 ## Career Objective
 
-Seeking an entry-level role where I can apply my skills in data analysis, ETL pipelines, and machine learning to solve real-world problems while improving my technical expertise.
+Seeking an entry-level role where I can apply my skills in data analysis, and machine learning to solve real-world problems while improving my technical expertise.
