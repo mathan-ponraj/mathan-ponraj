@@ -37,6 +37,8 @@ In this section, I showcase projects that demonstrate my skills in Data Analytic
 
 ### YouTube Trending Video Analytics
 
+**Code:** [YouTube-Trending-Video-Analytics](https://github.com)
+
 **Goal:** To analyze YouTube trending videos and identify content performance, audience engagement, and channel popularity.
 
 **Description:** The project focused on collecting trending video data from the YouTube Data API v3 and transforming raw JSON data into structured datasets for analysis. The project included data extraction, data cleaning and preprocessing, loading transformed data into a SQLite database, performing SQL-based exploratory data analysis (EDA), and analyzing video performance using views, likes, engagement rate, and channel frequency to uncover meaningful content trends.
@@ -47,7 +49,6 @@ In this section, I showcase projects that demonstrate my skills in Data Analytic
 
 **Results:** Developed an automated analytics pipeline that identified top-performing videos, highly engaged content, and the most frequently trending channels, providing actionable insights into audience engagement and content performance.
 
-**Code:** [YouTube-Trending-Video-Analytics](https://github.com)
 
 ---
 
@@ -116,7 +117,9 @@ In this section, I showcase projects that demonstrate my skills in Data Analytic
 
 **Technology:** Python, Pandas, NumPy, Scikit-Learn, TF-IDF Vectorizer, Logistic Regression.
 
-**Results:** Developed a text classification model that achieved approximately **97% training accuracy** and **95% test accuracy**, effectively distinguishing spam messages from legitimate communications and demonstrating strong generalization performance.
+**Results:**  Developed a text classification model that achieved approximately 97% training accuracy and 95% test accuracy, effectively distinguishing spam messages from legitimate communications and demonstrating strong generalization performance.
+
+
 ---
 
 
@@ -172,6 +175,8 @@ Computer Science and Engineering
 # Contact
 
 **LinkedIn:** https://www.linkedin.com/in/mathan03/
+
 **Email:** mathanponraj03@gmail.com
+
 **Contact Number:** +91 7339404085
 
