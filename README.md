@@ -1,182 +1,76 @@
-
 # Mathan Ponraj - Data Analyst Portfolio
 
 ## About
+Hi, I'm Mathan! I have an analytical background in Computer Science and Engineering. I have developed a strong foundation in data analytics, database management, and automated reporting pipelines, with a deep passion for using data to uncover meaningful trends and drive data-driven business decisions. I am excited to bring my technical and analytical skills to the field as an entry-level Data Analyst.
 
-Hi, I'm Mathan! I have an analytical background in Computer Science and Engineering and am currently completing my Master of Engineering (M.E.) in Computer Science and Engineering. I have developed a strong foundation in data analytics and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data analytics as an entry-level Data Analyst.
+During my academic studies and internship experiences, I honed my ability to work with complex datasets and developed a keen eye for data quality validation and pattern identification. I gained hands-on experience in collecting, cleaning, and transforming data, performing exploratory data analysis (EDA) using SQL and Python, and creating interactive applications that support organizational decision-making.
 
-During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained hands-on experience in collecting, cleaning, and transforming data, performing exploratory data analysis using SQL and Python, and creating visualizations that support data-driven business decisions.
+In my free time, I enjoy exploring advanced data analysis tools, optimization techniques, and business intelligence concepts, always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of turning messy, raw data into structured, insight-ready assets that solve complex business problems.
 
-Alongside analytics, I continue to expand my knowledge of machine learning and cloud technologies, enabling me to work across the complete data lifecycle, from data analysis to predictive modeling and deployment.
-
-I am currently seeking opportunities as a Data Analyst where I can apply my analytical mindset, technical skills, and problem-solving abilities to help organizations make data-driven decisions and create business value.
-
-📄 **My CV:** [Resume.pdf](Resume.pdf)
-
-This repository showcases my projects, technical skills in Data Analytics, Business Intelligence, Machine Learning, and Cloud Technologies.
-
----
+This is a repository to showcase skills, share projects, and track my progress in Data Analytics, Business Intelligence, and Data Engineering related topics.
 
 ## Table of Contents
-
-- [About](#about)
-- [Portfolio Projects](#portfolio-projects)
-- [Technical Skills](#technical-skills)
-- [Education](#education)
-- [Certifications](#certifications)
-- [Contact](#contact)
-
----
-
-# Portfolio Projects
-
-In this section, I showcase projects that demonstrate my skills in Data Analytics, Data Science, Machine Learning, Data Engineering, and Business Intelligence.
+* About
+* Portfolio Projects
+  * Python for Data Analysis
+  * SQL & Data Infrastructure
+* Education
+* Certificates
+* Contact
 
 ---
 
+## Portfolio Projects
+In this section, I will list data analytics projects, briefly describing the technology stack used to solve cases.
 
-### YouTube Trending Video Analytics
+### Python for Data Analysis
 
-**Code:** [YouTube-Trending-Video-Analytics](https://github.com)
+#### Laptop Market Metrics & Interactive Analytics Dashboard
+* **Code:** Laptop Market Metrics & Interactive Analytics Dashboard
+* **Goal:** To analyze the relationship between hardware specifications and pricing, and build a decision-support system based on consumer budget constraints.
+* **Description:** The project focused on analyzing a dataset of hardware components to isolate cost factors. The workflow involved data loading, cleaning and preprocessing (including missing-value handling, categorical encoding, and feature standardization), performing exploratory data analysis (EDA), and mapping hardware specifications against price metrics. It concluded with the deployment of a filtering and ranking engine.
+* **Skills:** data cleaning, exploratory data analysis, correlation matrices, budget filtering logic, data visualization.
+* **Technology:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit.
+* **Results:** The analysis successfully isolated the hardware features carrying the highest correlation with price metrics. Using Python, built an interactive dashboard deployed via Streamlit that allows stakeholders to enter consumer preferences and filter for the top 5 highest-value alternatives.
 
-**Goal:** To analyze YouTube trending videos and identify content performance, audience engagement, and channel popularity.
-
-**Description:** The project focused on collecting trending video data from the YouTube Data API v3 and transforming raw JSON data into structured datasets for analysis. The project included data extraction, data cleaning and preprocessing, loading transformed data into a SQLite database, performing SQL-based exploratory data analysis (EDA), and analyzing video performance using views, likes, engagement rate, and channel frequency to uncover meaningful content trends.
-
-**Skills:**API Integration, ETL, Data Collection, Data Cleaning, Data Transformation, SQL, Exploratory Data Analysis (EDA), Database Design, Data Analysis.
-
-**Technology:** Python, Pandas, SQLite, SQLAlchemy, YouTube Data API v3.
-
-**Results:** Developed an automated analytics pipeline that identified top-performing videos, highly engaged content, and the most frequently trending channels, providing actionable insights into audience engagement and content performance.
-
-
----
-
-### Hotel Revenue Performance Dashboard
-
-**Code:** [hospitality-revenue-analytics](https://github.com/mathan-ponraj/hospitality-revenue-analytics)
-
-**Goal:** To analyze hotel booking performance and identify opportunities to improve occupancy, revenue, and profitability across multiple properties.
-
-**Description:** The project focused on analyzing booking and revenue data for a multi-city hotel chain using Power BI. The project included data modeling with a Star Schema, data transformation using Power Query, developing 25+ DAX measures, and building an interactive dashboard to analyze occupancy trends, revenue performance, booking platform effectiveness, and revenue leakage caused by cancellations and no-shows.
-
-**Skills:** Data Modeling, Star Schema, Data Transformation, Business Intelligence, DAX, Dashboard Development, KPI Analysis, Revenue Analysis, Data Visualization.
-
-**Technology:** Power BI, Power Query, DAX.
-
-**Results:** Developed an interactive business intelligence dashboard that uncovered revenue leakage, identified underperforming properties and booking channels, and provided actionable insights to support dynamic pricing strategies, improve occupancy rates, and increase overall profitability.
-
-
-
+#### Commodity News Text Analysis & Analytics Interface
+* **Code:** Commodity News Text Analysis & Analytics Interface
+* **Goal:** To process text data from global news sources and classify market sentiment trends.
+* **Description:** Developed under the Naan Mudhalvan x IBM collaborative program, this project involved extracting and analyzing text data from news feeds. The pipeline applied advanced text cleaning, string preprocessing, stop-word removal, and text-to-numerical feature transformation to categorize unstructured media reports into clear performance indicators.
+* **Skills:** team leadership, data preprocessing, feature extraction, text analytics, performance metrics evaluation.
+* **Technology:** Python, NLP, Scikit-learn, TF-IDF, Flask.
+* **Results:** Led a 4-member team to build a text analytics workflow achieving 91.65% classification accuracy on test evaluation datasets. Deployed a Flask web application that standardizes raw text inputs into real-time analytical sentiment categories.
 
 ---
 
+### SQL & Data Infrastructure
 
-
-### Used Car Price Prediction
-
-**Code:** [automotive-pricing-intelligence](https://github.com/mathan-ponraj/automotive-pricing-intelligence)
-
-**Goal:** To develop a machine learning model that predicts used car prices and supports data-driven pricing decisions for automotive dealerships.
-
-**Description:** The project focused on analyzing historical used car sales data to identify the factors influencing vehicle prices. The project included data cleaning and preprocessing, exploratory data analysis (EDA), feature engineering, building a Scikit-Learn pipeline for automated data processing, training a Linear Regression model, and developing a Power BI dashboard to visualize pricing trends and business insights.
-
-**Skills:** Data Cleaning, Data Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Regression Analysis, Predictive Modeling, Machine Learning Pipelines, Business Intelligence, Data Visualization.
-
-**Technology:** Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Power BI.
-
-**Results:** Developed a predictive pricing model that achieved an R² score of **0.85**, accurately estimating used car prices based on vehicle characteristics. The analysis identified key factors influencing resale value and provided actionable insights to support pricing strategies, improve inventory turnover, and maximize profit margins.
+#### YouTube Trending Analytics & Automated ETL Pipeline
+* **Code:** YouTube Trending Analytics & Automated ETL Pipeline
+* **Goal:** To automate trending data collection and implement SQL-based analysis to track channel engagement metrics.
+* **Description:** This project focused on building an automated data pipeline to gather social media performance indicators. Raw API data undergoes schema standardization, datatype conversion, and error validation. The structured outputs are natively directed into a local database layer where structured query language logic handles complex analytical sorting and channel aggregations.
+* **Skills:** ETL pipeline design, automated scheduling, schema mapping, relational database management, SQL-based EDA (joins, aggregations, filtering).
+* **Technology:** Python, Pandas, SQL, SQLite, Apache Airflow, YouTube Data API v3.
+* **Results:** Established a repeatable data architecture that automatically ingests and transforms 50+ records per routine run. Generated optimized SQLite tables that allow stakeholders to instantly query, aggregate, and isolate top-performing channel metrics.
 
 ---
 
-
-### Laptop Price Prediction and Intelligent Recommendation System
-
-**Code:** [Laptop-Price-Prediction-Intelligent-Recommendation-System](https://github.com/mathan-ponraj/Laptop-Price-Prediction-Intelligent-Recommendation-System)
-
-**Goal:** To predict laptop prices and recommend high-value laptops based on user preferences and budget constraints.
-
-**Description:** The project focused on analyzing laptop specifications and market prices to build an intelligent recommendation system. The project included data cleaning and preprocessing, feature engineering, encoding categorical variables, training an XGBoost regression model for price prediction, and developing a Streamlit application that provides personalized laptop recommendations based on predicted prices and user-defined budgets.
-
-**Skills:** Data Cleaning, Data Preprocessing, Feature Engineering, Regression Analysis, Machine Learning, Recommendation Systems, Model Evaluation, Predictive Analytics, Web Application Development.
-
-**Technology:** Python, Pandas, NumPy, Scikit-Learn, XGBoost, Streamlit.
-
-**Results:** Developed an XGBoost regression model that achieved an **R² score of approximately 0.91**, accurately predicting laptop prices from hardware specifications. The recommendation system identified high-value laptops within user budgets, enabling data-driven purchasing decisions and improving the overall user experience.
-
----
-### Intelligent Spam Message Classification
-
-**Code:** [spam-filter-nlp](https://github.com/mathan-ponraj/spam-filter-nlp)
-
-**Goal:** To develop a Natural Language Processing (NLP) model that automatically classifies text messages as spam or legitimate (ham).
-
-**Description:** The project focused on analyzing a dataset of text messages to build an intelligent spam classification system. The project included data cleaning and preprocessing, transforming text into numerical features using TF-IDF vectorization, training a Logistic Regression classifier, and evaluating the model's performance on unseen messages to ensure reliable message classification.
-
-**Skills:** Natural Language Processing (NLP), Text Classification, Data Cleaning, Feature Extraction, TF-IDF Vectorization, Machine Learning, Model Evaluation.
-
-**Technology:** Python, Pandas, NumPy, Scikit-Learn, TF-IDF Vectorizer, Logistic Regression.
-
-**Results:**  Developed a text classification model that achieved approximately 97% training accuracy and 95% test accuracy, effectively distinguishing spam messages from legitimate communications and demonstrating strong generalization performance.
-
+## Education
+* **Government College of Engineering, Bodinayakanur:** Bachelor of Engineering - B.E., Computer Science and Engineering, 2020 - 2024
+  * Coursework: DBMS, Operating Systems, Data Structures & Algorithms, Software Development, Computer Networks
 
 ---
 
-
-
-# Technical Skills
-
-### Programming Languages
-- Python
-- SQL
-
-### Data Analytics
-- Pandas
-- NumPy
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis
-- Data Cleaning
-
-### Machine Learning
-- Scikit-Learn
-- Regression
-- Classification
-- Feature Engineering
-- Model Evaluation
-
-### Visualization & BI
-- Power BI
-- Tableau
-- DAX
-- Matplotlib
-- Seaborn
-
-
+## Certificates
+* Advanced EXCEL and SQL for Data Analytics (Rinex)
+* Data Analytics Virtual Internship (Deloitte)
+* Data Science and Machine Learning (Rinex)
+* Python Programming (Rinex)
 
 ---
 
-# Education
-
-
-### Bachelor's Degree
-Computer Science and Engineering
-
----
-
-# Certifications
-
-- Deloitte Data Analytics Virtual Internship Certification
-- Advanced Excel for Data Analysis Certification
-- SQL Certification
-- Python for Data Science
-
----
-
-# Contact
-
-**LinkedIn:** https://www.linkedin.com/in/mathan03/
-
-**Email:** mathanponraj03@gmail.com
-
-**Contact Number:** +91 7339404085
-
+## Contact
+* **LinkedIn:** [mathan03](https://linkedin.com/mathan03)
+* **GitHub Repository:** [mathan-ponraj](https://github.com)
+* **Email:** mathanponraj03@gmail.com
+* **Phone:** +91 7339404085
