@@ -1,13 +1,24 @@
-# Mathan Ponraj - Data Analyst Portfolio
+# Mathan Ponraj - Welcome to my portfolio 
 
-## About
-Hi, I'm Mathan! I have an analytical background in Computer Science and Engineering. I have developed a strong foundation in data analytics, database management, and automated reporting pipelines, with a deep passion for using data to uncover meaningful trends and drive data-driven business decisions. I am excited to bring my technical and analytical skills to the field as an entry-level Data Analyst.
+**About Me**
 
-During my academic studies and internship experiences, I honed my ability to work with complex datasets and developed a keen eye for data quality validation and pattern identification. I gained hands-on experience in collecting, cleaning, and transforming data, performing exploratory data analysis (EDA) using SQL and Python, and creating interactive applications that support organizational decision-making.
+  Hi, I’m Mathan, an entry-level Data Scientist and Computer Science graduate with a strong passion for Data Science, Machine Learning, and intelligent data-driven solutions. I enjoy collecting, processing, and transforming raw data into clean, model-ready, and analytics-ready datasets. My experience spans Python, SQL, Machine Learning, NLP, ETL workflows, data pipelines, and automation, with a focus on turning complex data into meaningful insights and practical solutions.
+  As part of the Naan Mudhalvan × IBM program, I led a four-member team and developed an NLP-based sentiment analysis solution for gold commodity news, achieving 97% model accuracy. I have also built an automated ETL pipeline using the YouTube API, extracting data, transforming it, and loading it into a SQL database for further analysis.
 
-In my free time, I enjoy exploring advanced data analysis tools, optimization techniques, and business intelligence concepts, always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of turning messy, raw data into structured, insight-ready assets that solve complex business problems.
+  Beyond my technical skills, I bring a strong problem-solving mindset, ownership, adaptability, and willingness to learn. I’m continuously expanding my knowledge into emerging technologies such as Generative AI, LLMs, RAG, and modern cloud-based deployments.
 
-This is a repository to showcase skills, share projects, and track my progress in Data Analytics, Business Intelligence, and Data Engineering related topics.
+  I’m currently looking for opportunities where I can apply my technical skills, contribute to real-world data-driven projects, and continue growing as a Data Scientist.
+
+**Technical Skills**
+
+- **Programming Languages:** Python, SQL, Java
+- **Data Science & Machine Learning:** Pandas, NumPy, Scikit-learn, Exploratory Data Analysis (EDA), Data Cleaning, Feature Engineering, Model Evaluation & Deployment
+- **Deep Learning:** TensorFlow, Keras, PyTorch, Neural Networks, CNN, RNN, LSTM
+- **Data Engineering & Automation:** ETL Pipelines, Apache Airflow, REST APIs (YouTube API v3), Database Design
+- **Databases & Tools:** SQLite, Streamlit, Flask, Power BI, Excel, Matplotlib, Seaborn
+- **Development & Soft Skills:** Git, GitHub, Linux Basics, Problem Solving, Team Leadership, Analytical Thinking
+
+Explore my **automated ETL pipelines, machine learning projects, and data-driven applications** to see how I transform raw data into meaningful insights and practical solutions.
 
 ## Table of Contents
 * About
