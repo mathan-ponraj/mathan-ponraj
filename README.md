@@ -1,5 +1,9 @@
 # Mathan Ponraj - Welcome to my portfolio 
 
+**Career Objective**
+
+Motivated Computer Science graduate seeking an Data Scientist role to apply skills in Python, SQL, Machine Learning, and NLP toward building scalable data solutions. Passionate about end-to-end model development, ETL pipelines, and emerging tech like GenAI and LLMs. Also open to Software Development and QA/Testing roles where strong analytical thinking and technical skills can drive impact.
+
 **About Me**
 
   Hi, I’m Mathan, an entry-level Data Scientist and Computer Science graduate with a strong passion for Data Science, Machine Learning, and intelligent data-driven solutions. I enjoy collecting, processing, and transforming raw data into clean, model-ready, and analytics-ready datasets. My experience spans Python, SQL, Machine Learning, NLP, ETL workflows, data pipelines, and automation, with a focus on turning complex data into meaningful insights and practical solutions.
@@ -20,55 +24,73 @@
 
 Explore my **automated ETL pipelines, machine learning projects, and data-driven applications** to see how I transform raw data into meaningful insights and practical solutions.
 
-## Table of Contents
-* About
-* Portfolio Projects
-  * Python for Data Analysis
-  * SQL & Data Infrastructure
-* Education
-* Certificates
-* Contact
 
----
+## DATA SCIENCE
 
-## Portfolio Projects
-In this section, I will list data analytics projects, briefly describing the technology stack used to solve cases.
+### Laptop Price Prediction & Intelligent Recommendation System
 
-### Python for Data Analysis
+Developed a personalized laptop recommendation engine that turns messy hardware specs and user preferences into smart, accurate picks. I engineered the pipeline end-to-end—cleaning data, crafting custom features, and training an XGBoost model that hit a 0.91 R² score. To make it easy to use, I deployed it through an interactive Streamlit web app that automatically filters and ranks the top 5 laptops for any budget or performance need.
 
-#### Laptop Market Metrics & Interactive Analytics Dashboard
-* **Code:** Laptop Market Metrics & Interactive Analytics Dashboard
-* **Goal:** To analyze the relationship between hardware specifications and pricing, and build a decision-support system based on consumer budget constraints.
-* **Description:** The project focused on analyzing a dataset of hardware components to isolate cost factors. The workflow involved data loading, cleaning and preprocessing (including missing-value handling, categorical encoding, and feature standardization), performing exploratory data analysis (EDA), and mapping hardware specifications against price metrics. It concluded with the deployment of a filtering and ranking engine.
-* **Skills:** data cleaning, exploratory data analysis, correlation matrices, budget filtering logic, data visualization.
-* **Technology:** Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Streamlit.
-* **Results:** The analysis successfully isolated the hardware features carrying the highest correlation with price metrics. Using Python, built an interactive dashboard deployed via Streamlit that allows stakeholders to enter consumer preferences and filter for the top 5 highest-value alternatives.
+**Tech:** Python • Pandas • Scikit-learn • XGBoost • Data Preprocessing • Feature Engineering • Machine Learning • Model Evaluation • Data Analysis • Visualization • Streamlit • Model Deployment
 
-#### Commodity News Text Analysis & Analytics Interface
-* **Code:** Commodity News Text Analysis & Analytics Interface
-* **Goal:** To process text data from global news sources and classify market sentiment trends.
-* **Description:** Developed under the Naan Mudhalvan x IBM collaborative program, this project involved extracting and analyzing text data from news feeds. The pipeline applied advanced text cleaning, string preprocessing, stop-word removal, and text-to-numerical feature transformation to categorize unstructured media reports into clear performance indicators.
-* **Skills:** team leadership, data preprocessing, feature extraction, text analytics, performance metrics evaluation.
-* **Technology:** Python, NLP, Scikit-learn, TF-IDF, Flask.
-* **Results:** Led a 4-member team to build a text analytics workflow achieving 91.65% classification accuracy on test evaluation datasets. Deployed a Flask web application that standardizes raw text inputs into real-time analytical sentiment categories.
+**Get my source code:** [GitHub Repository](https://github.com/mathan-ponraj/Laptop-Price-Prediction-Intelligent-Recommendation-System)  
+**Use my app**🚀 [Live Demo](https://laptop-price-and-recommendation-system-icvhjjspmfrmmy2rfmtuaq.streamlit.app/)
 
----
 
-### SQL & Data Infrastructure
+
+### Automotive Pricing Intelligence & Sales Optimization
+
+Built an end-to-end used-car pricing analytics system that combines machine learning and business intelligence to support data-driven pricing decisions. Developed a Scikit-learn pipeline for data cleaning, preprocessing, scaling, and encoding, performed EDA and feature engineering including Car Age, and trained a Linear Regression model achieving an R² score of 0.85. Extended the solution with a pricing decision framework and Power BI dashboard to identify overpriced and underpriced vehicles and support inventory and profit analysis.
+
+**Tech:** Python • Pandas • NumPy • Scikit-learn • Linear Regression • EDA • Data Cleaning • Data Preprocessing • Feature Engineering • Predictive Modeling • Matplotlib • Seaborn • Power BI • Business Intelligence • KPI Analysis
+
+**Key Highlights:** R² Score 0.85 • Automated ML Pipeline • Car Age Feature Engineering • Pricing Analysis • Overpriced/Underpriced Detection • Business KPIs
+
+**Get my source code:** [GitHub Repository](https://github.com/mathan-ponraj/automotive-pricing-intelligence)
+
+### Gold Commodity News Sentiment Analysis
+Led a 4-member team under the Naan Mudhalvan × IBM program, taking responsibility for data collection and preprocessing, feature extraction using TF-IDF, and development of an NLP-based sentiment classification model using Scikit-learn. Evaluated the model performance and achieved 91.65% classification accuracy before deploying the solution as an interactive Flask web application. Designed and executed Selenium WebDriver test cases to validate web application functionality, generate execution logs, and identify bugs and defects. Performed regression testing after fixes to ensure existing functionalities continued to work as expected. Coordinated with team members to analyze defects, troubleshoot errors, implement fixes, and verify the stability and reliability of the application.
+
+**Tech:** Python • NLP • TF-IDF • Scikit-learn • Data Preprocessing • Feature Extraction • Machine Learning • Model Evaluation • Flask • Team Leadership • Selenium WebDriver • Manual Testing • Functional Testing • Regression Testing • Test Case Design • Bug & Defect Identification • Test Execution & Logging • Data Preprocessing • Feature Extraction • Machine Learning • Model Evaluation
+
+##🏆 Achievement: Led a 4-member team • 91.65% Accuracy
+
+
+
+##  DATA ENGINEERING
 
 #### YouTube Trending Analytics & Automated ETL Pipeline
-* **Code:** YouTube Trending Analytics & Automated ETL Pipeline
-* **Goal:** To automate trending data collection and implement SQL-based analysis to track channel engagement metrics.
-* **Description:** This project focused on building an automated data pipeline to gather social media performance indicators. Raw API data undergoes schema standardization, datatype conversion, and error validation. The structured outputs are natively directed into a local database layer where structured query language logic handles complex analytical sorting and channel aggregations.
-* **Skills:** ETL pipeline design, automated scheduling, schema mapping, relational database management, SQL-based EDA (joins, aggregations, filtering).
-* **Technology:** Python, Pandas, SQL, SQLite, Apache Airflow, YouTube Data API v3.
-* **Results:** Established a repeatable data architecture that automatically ingests and transforms 50+ records per routine run. Generated optimized SQLite tables that allow stakeholders to instantly query, aggregate, and isolate top-performing channel metrics.
+Built an automated data pipeline to collect, clean, and store trending social media performance metrics using Apache Airflow and the YouTube Data API v3. The system fetches raw API data, validates schemas, handles datatype conversions, and automatically loads structured outputs into a SQLite database. Designed optimized SQL queries (joins, aggregations, and window functions) to enable fast stakeholder analysis on top-performing channels and engagement trends.
 
----
+Tech: Python • Pandas • SQL • SQLite • Apache Airflow • YouTube Data API v3 • ETL Pipelines • Database Design • Data Automation
+**Get my source code:** [GitHub Repository](https://github.com/mathan-ponraj/YouTube-Trending-Video-Analytics)
+
+## DATA ANALYTICS
+
+### Hospitality Revenue Analytics & Executive Dashboard
+Developed an interactive Power BI dashboard to analyze hotel revenue, bookings, occupancy, cancellations, and key operational metrics. Performed data cleaning, data transformation, exploratory data analysis, and KPI analysis using Excel and Power BI to identify revenue trends, booking patterns, and business performance insights. Built interactive visualizations and executive-level reports to support data-driven decision-making and performance monitoring.
+
+**Tech:** Power BI • Excel • Data Cleaning • Data Transformation • SQL • Data Analysis • EDA • DAX • Data Visualization • KPI Reporting • Business Intelligence • Dashboard Development • Reporting
+
+**Key Highlights:** Revenue Analysis • Occupancy Analysis • Booking Trends • Cancellation Analysis • KPI Monitoring • Business Insights
+
+**View my dashboard:** [GitHub Repository](https://github.com/mathan-ponraj/hospitality-revenue-analytics)
+
+
+### HR Analytics & Workforce Insights Dashboard
+
+Developed an interactive Power BI dashboard to analyze employee headcount, attrition, workforce demographics, departments, and job roles using 1,470 employee records. Cleaned and transformed the data using Excel and Power Query, performed exploratory data analysis, and created key HR KPIs including active employees, attrition count, and attrition rate. The dashboard provides a centralized view of workforce patterns to support HR reporting, performance monitoring, and data-driven decision-making.
+
+**Tech:** Power BI • Microsoft Excel • Power Query • Data Cleaning • Data Transformation • EDA • Data Analysis • Data Visualization • KPI Reporting • Workforce Analytics • Business Intelligence • Dashboard Development
+
+**Key Highlights:** 1,470 Employee Records • 1,233 Active Employees • 237 Attrition Count • 16.1% Attrition Rate • Department Analysis • Job Role Analysis • Workforce Insights
+
+**View my dashboard:** [GitHub Repository](https://github.com/mathan-ponraj/HR_Analytics)
+
 
 ## Education
 * **Government College of Engineering, Bodinayakanur:** Bachelor of Engineering - B.E., Computer Science and Engineering, 2020 - 2024
-  * Coursework: DBMS, Operating Systems, Data Structures & Algorithms, Software Development, Computer Networks
+  * Coursework: DBMS, Operating Systems, Data Structures & Algorithms, Software Development, Software Testing Life Cycle, Computer Networks
 
 ---
 
