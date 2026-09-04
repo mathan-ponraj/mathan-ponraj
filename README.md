@@ -53,7 +53,7 @@ Led a 4-member team under the Naan Mudhalvan × IBM program, taking responsibili
 
 **Tech:** Python • NLP • TF-IDF • Scikit-learn • Data Preprocessing • Feature Extraction • Machine Learning • Model Evaluation • Flask • Team Leadership • Selenium WebDriver • Manual Testing • Functional Testing • Regression Testing • Test Case Design • Bug & Defect Identification • Test Execution & Logging • Data Preprocessing • Feature Extraction • Machine Learning • Model Evaluation
 
-##🏆 Achievement: Led a 4-member team • 91.65% Accuracy
+## 🏆 Achievement: Led a 4-member team • 91.65% Accuracy
 
 
 
